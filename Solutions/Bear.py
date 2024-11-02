@@ -1,3 +1,10 @@
+#A bear has hidden n pieces of meat with sizes 1 to n in a cave. This bear every day
+#A random person sleeps on a piece of meat and if it is an odd size, he eats the whole meat and if
+#If the size of the meat is even, he eats half of the meat and saves the other half. The day these meats run out
+#The bear dies. How many days does this bear live?
+
+#Solutions:
+
 import random
 
 
